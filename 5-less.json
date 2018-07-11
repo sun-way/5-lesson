@@ -1,0 +1,22 @@
+
+[
+  {"id":1, "FirstName":"Иван", "LastName":"Иванов",
+    "address":{"StreetAddress":"Московское шоссе","city":" г.Суздаль", "postalCode":10101},
+    "phoneNumber":["120-45-26", "45-45-5450"]
+  },
+
+  {"id":2, "FirstName":"Ася", "LastName":"Иванова",
+    "address":{"StreetAddress":"Лесное шоссе","city":"г.Владимир", "postalCode":1023501},
+    "phoneNumber":["1999-75-26", "45-55-5456"]
+  },
+
+  {"id":3, "FirstName":"Катя", "LastName":"Минро",
+    "address":{"StreetAddress":"Великое шоссе","city":"г.Москва", "postalCode":10177701},
+    "phoneNumber":["123-00-26", "45-45-5456"]
+  },
+  {"id":4, "FirstName":"Саша",
+    "address":{"StreetAddress":"Яркое шоссе","city":"г.Лиссабон", "postalCode":10177701},
+    "phoneNumber":["123-00-26"]
+  }
+
+]

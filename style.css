@@ -1,0 +1,17 @@
+
+thead {
+    border: 4px solid firebrick;
+    background: #000090;
+    color:yellow;
+}
+
+table {
+    border-collapse: collapse; /*  Убираем двойные линии между ячейками */
+}
+
+td, th {
+    padding: 14px 14px 14px; /* Поля в ячейках */
+    border: 2px solid firebrick; /* Граница между ячейками */
+    text-align: center;
+}
+
