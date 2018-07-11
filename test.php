@@ -1,4 +1,3 @@
-
  <?php
 $json= file_get_contents( __DIR__.'/5-less.json');
 $contacts = json_decode($json,true);
