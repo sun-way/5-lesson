@@ -5,7 +5,7 @@ $contacts = json_decode($json,true);
 
 <html lang="ru">
 <head>
-    <title>4 home</title>
+    <title>5 home</title>
     <meta charset="utf-8">
 <link  rel="stylesheet" href="style.css">
 </head>
